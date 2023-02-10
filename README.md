@@ -120,3 +120,15 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/JAlvaroC/GuitarLA-nextJs.git
 git push -u origin main
+
+
+<!-- Deploy en RAILWAY -->
+API_URL=https://guitarla-strapi-2xkr.onrender.com/api
+
+<!-- Link de Deploy de la pagina Frontend -->
+
+
+##Prueba modificado
+      "engines": {
+        "node": ">=6.9.0"
+      }
